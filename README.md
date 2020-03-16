@@ -3,7 +3,7 @@ Walmart Drone Launch Service Challenge
 
 ## Design Diagram												
 
-![Design Diagram](https://github.com/lokeshgnanasekhar/Walmart_DLS_QEChallenge/blob/master/Drone%20Delivery%20QE%20Challenge%20(5).png)
+![Design Diagram](https://github.com/lokeshgnanasekhar/Walmart_DLS_QEChallenge/blob/master/DLS%20Design%20Diagram.png)
  
 
 
