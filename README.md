@@ -83,9 +83,13 @@ Finally , After everything is calculated and updated  DLS Generator will generat
 
 # Automation Libraries Used:
 <br/>
- - RestAssured - Services Automation
- - Selenium WebDriver - Web Interface Automation
- - Cucumber - BDD To write Test Scenarios
+
+- RestAssured - Services Automation
+-	Selenium WebDriver - Web Interface Automation
+-	Cucumber - BDD To write Test Scenarios
+
+
+ 
  
 
 
