@@ -81,6 +81,12 @@ NPS Business Engine gets all the necessary details from the Drone DB in order to
 Finally , After everything is calculated and updated  DLS Generator will generate a file with records in format - WM004 06:31:24 which is order number and Departure time along with NPS as the last record.
 
 
+# Automation Libraries Used:
+<br/>
+ - RestAssured - Services Automation
+ - Selenium WebDriver - Web Interface Automation
+ - Cucumber - BDD To write Test Scenarios
+ 
 
 
 
